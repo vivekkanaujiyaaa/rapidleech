@@ -7,8 +7,8 @@
 
 ######## Plugin's Info ########
 $app = array();
-$app['id'] = ''; //Application ID
-$app['secret'] = ''; //Application SecretKey
+$app['6853845'] = ''; //Application ID
+$app['xua6vVt1aN4CUI60bVAd'] = ''; //Application SecretKey
 $upload_audio_as_video = false; // Upload Audio files to "My Videos"...
 $upload_video_as_doc = false; // Upload original Video file as Doc (Limit 200 MB)...
 ########################
